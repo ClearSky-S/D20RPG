@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{4C919F7C-35B3-E43D-E03F-EC37520A8C43}|">
+  <MonoDevelop.Ide.ItemProperties.Scripts PreferredExecutionTarget="ea611259-feac-43d8-b124-2b7580e69dfb" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Dependency/IDependency.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Dependency/IDependency.cs" Line="5" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
